@@ -1,3 +1,3 @@
 ## GIT LAB README
 
-- This is a repo for learning Git.
+- This is an updated repo for learning Git.
